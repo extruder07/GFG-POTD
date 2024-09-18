@@ -1,0 +1,1 @@
+{"name":"Local: 16 9 2024","url":"d:\\codeforces\\GFG POTD\\16 9 2024.cpp","tests":[{"id":1726484919623,"input":"1\n((()","output":"2"},{"id":1726484959274,"input":"1\n)()())","output":"4"},{"id":1726485632025,"input":"1\n((()","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\codeforces\\GFG POTD\\16 9 2024.cpp","group":"local","local":true}
